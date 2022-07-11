@@ -2,11 +2,8 @@
   "name": "weatherproject",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "homepage": "https://sarolta2022.github.io/weatherproject",
+  "main": "server.js",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
